@@ -1,0 +1,4 @@
+2025-12-26 20:05:35,705 - INFO - Ingested staging.users
+2025-12-26 20:05:35,722 - INFO - Ingested staging.onboarding
+2025-12-26 20:05:35,747 - INFO - Ingested staging.transactions
+2025-12-26 20:05:35,747 - INFO - Daily ingestion completed

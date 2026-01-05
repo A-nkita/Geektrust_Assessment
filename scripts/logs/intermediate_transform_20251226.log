@@ -1,0 +1,7 @@
+2025-12-26 20:05:39,105 | INFO | Intermediate transformation started
+2025-12-26 20:05:39,105 | INFO | Connecting to database
+2025-12-26 20:05:39,140 | INFO | Database connection established
+2025-12-26 20:05:39,141 | INFO | Executing transformation SQL
+2025-12-26 20:05:39,354 | INFO | Intermediate tables created successfully
+2025-12-26 20:05:39,354 | INFO | Database connection closed
+2025-12-26 20:05:39,354 | INFO | Intermediate transformation completed successfully
